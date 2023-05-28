@@ -1,6 +1,6 @@
 # Google Maps API Course
 
-This repository contains the files for the Google Maps API Course. The course provides an introduction to using the Google Maps API to integrate maps and location services into web applications.
+This repository contains the files for the [Google Maps API Course](https://www.youtube.com/watch?v=PPTzaRj8OkA&list=PLfeu5i2CGb0sDdiR_RpWbH-758luP3_fj). The course provides an introduction to using the Google Maps API to integrate maps and location services into web applications.
 
 ## Getting Started
 
